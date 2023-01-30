@@ -13,10 +13,11 @@ AR). The Overlay CMS also has a no-code interface, allowing non-technical users 
 
 The functionality of the full-screen image overlay is deployed via the overlay system and can be implemented using the following steps.
 
-1.  Create a new widget in the Invirtu/BingeWave [builder here](https://developers.bingewave.com/widgets). **Important:** When making the widget, **mark it as 
+1.  Create a new widget as an HTML/CSS/Javascript app in the Invirtu/BingeWave [builder here](https://developers.bingewave.com/widgets). **Important:** When making 
+the widget, **mark it as 
 published** so it will be usable when you implement it into your template.
 2.  From the src folder here, copy the index.html into the HTML section in the widget builder.
-3.  From the src folder here, copy the style.css into the HTML section in the widget builder.
+3.  From the src folder here, copy the style.css into the CSS section in the widget builder.
 4.  From the src folder here, copy the app.js into the Javascript section in the widget builder.
 5.  Save the changes in the widget builder.
 6.  Release the widget (button next to save changes).
