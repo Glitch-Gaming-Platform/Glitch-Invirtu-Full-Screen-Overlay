@@ -1,5 +1,5 @@
 
-# Glitch Invirtu Screen Grabber
+# Glitch Invirtu Full Screen Overlay
 
 ## Overview 
 
