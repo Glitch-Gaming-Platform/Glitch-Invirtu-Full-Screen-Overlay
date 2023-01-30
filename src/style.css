@@ -1,0 +1,18 @@
+.glitch-overlay-box {
+  height:100vh;
+  height: 100%;
+}
+
+.glitch-overlay-box {
+  background:black;
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
+  z-index: 9999;
+}
+
+.glitch-overlay-box img {
+  width: 100%;
+}
